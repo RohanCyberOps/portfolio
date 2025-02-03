@@ -23,7 +23,7 @@ This website showcases my professional skills, achievements, and projects in the
 To view the portfolio locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chrohangurjar1/portfolio.git
+   git clone https://github.com/RohanCyberOps/portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
