@@ -1,5 +1,5 @@
   
-[Demo](public/image.png)
+![Demo](public/image.png)
 
 ---
 
