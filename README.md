@@ -12,21 +12,21 @@
 
 ### Purpose
 
-This repository hosts a **personal portfolio website** that presents your professional credentials—specifically in **Cybersecurity**, **IT Management**, and **Software Development**. It’s a comprehensive digital résumé aimed at showcasing your background, certifications, and project accomplishments. ([GitHub][1])
+This repository hosts a **personal portfolio website** that presents your professional credentials—specifically in **Cybersecurity**, **IT Management**, and **Software Development**. It’s a comprehensive digital résumé aimed at showcasing your background, certifications, and project accomplishments. 
 
 ### Key Features
 
 * **About Me**: Articulates your values, identity, and professional goals.
-* **Projects**: Highlights significant undertakings such as Cyber Threat Detection, School Management System, Identity Detection Tool, and likely more. ([GitHub][1])
+* **Projects**: Highlights significant undertakings such as Cyber Threat Detection, School Management System, Identity Detection Tool, and likely more. 
 * **Certifications**: Displays qualifications like CEH, CISSP, and AWS Solutions Architect.
-* **Contact Section**: Provides channels for collaboration or consultation outreach. ([GitHub][1])
+* **Contact Section**: Provides channels for collaboration or consultation outreach.
 
 ### Tech Stack
 
 * Frontend: **HTML, CSS, JavaScript**
 * UI Framework: **React** for dynamic interface elements.
 * Backend/Data Handling: **Python** for backend logic or data processing.
-* Infrastructure & Tools: **Git & GitHub** for version control, **Docker** and **Kubernetes** for containerization. ([GitHub][1])
+* Infrastructure & Tools: **Git & GitHub** for version control, **Docker** and **Kubernetes** for containerization. 
 
 ### Setup Instructions
 
@@ -43,7 +43,7 @@ This repository hosts a **personal portfolio website** that presents your profes
 3. View the portfolio:
 
    * Open `index.html` directly in your browser; or
-   * Serve it using a local web server if the site includes dynamic content. ([GitHub][1])
+   * Serve it using a local web server if the site includes dynamic content. 
 
 ### Licensing
 
